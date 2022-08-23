@@ -117,3 +117,51 @@ h3 {
 #card-3 {
     background-color: rgb(202, 212, 183);
 }
+
+.subscribe {
+    height: 200px;
+    width: 850px;
+    background-color: rgb(253, 246, 192);
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
+
+.email {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color: gray;
+    background-color: lightgrey;
+    width: 400px;
+    border: none;
+    margin-left: 120px;
+}
+
+.submit {
+    padding: 10px 40px;
+    color: white;
+    background-image: linear-gradient(salmon, red);
+    font-weight: 700;
+    width: 200px;
+    border: none;
+    margin-top: 80px;
+    margin-left: -10px;
+}
+
+footer {
+    background-color: black;
+    height: 180px;
+}
+
+.footer-text {
+    text-align: center;
+    color: red;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+.text2 {
+    color: white;
+    text-align: center;
+}

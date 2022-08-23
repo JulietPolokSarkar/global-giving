@@ -1,0 +1,44 @@
+body {
+    font-family: 'Exo 2', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-top: 0;
+}
+
+h5 {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 30px;
+    margin-top: 0;
+}
+
+.banner-image {
+    background-image: url("images/donation13.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+    position: relative;
+}
+
+.donate-button {
+    background-image: linear-gradient(salmon, red);
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    margin-left: 630px;
+    border-radius: 10px;
+}

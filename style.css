@@ -93,3 +93,27 @@ h3 {
     font-size: 25px;
 
 }
+
+.mission {
+    display: flex;
+}
+
+.cards {
+    width: 350px;
+    height: 300px;
+    margin-left: 60px;
+    margin-bottom: 100px;
+    padding: 50px 20px;
+}
+
+#card-1 {
+    background-color: rgb(212, 233, 242);
+}
+
+#card-2 {
+    background-color: rgb(249, 230, 233);
+}
+
+#card-3 {
+    background-color: rgb(202, 212, 183);
+}

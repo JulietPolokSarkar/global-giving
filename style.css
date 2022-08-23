@@ -13,7 +13,7 @@ h1 {
     margin-top: 0;
 }
 
-h5 {
+.header-text {
     font-size: 15px;
     color: white;
     text-align: center;
@@ -24,7 +24,7 @@ h5 {
 }
 
 .banner-image {
-    background-image: url("images/donation13.jpg");
+    background-image: url("images/donation6.jpg");
     background-position: center;
     background-repeat: no-repeat;
     height: 700px;
@@ -41,4 +41,55 @@ h5 {
     padding: 10px 40px;
     margin-left: 630px;
     border-radius: 10px;
+}
+
+.amounts {
+    display: flex;
+    margin-left: 210px;
+}
+
+h2 {
+    margin-top: 200px;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3 {
+    background-color: rgb(241, 239, 239);
+    color: rgb(170, 166, 166);
+    height: 80px;
+    width: 160px;
+    font-size: 40px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#two-hundred {
+    background-color: rgb(249, 214, 210);
+    border: 2px solid salmon;
+    color: salmon;
+}
+
+.donation-text {
+    font-size: 15px;
+    color: gray;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 30px;
+}
+
+.input-field {
+    border: none;
+    border-bottom: 2px solid gray;
+    width: 950px;
+    margin-bottom: 80px;
+    margin-top: 60px;
+    margin-left: 240px;
+    text-align: center;
+    color: rgb(173, 173, 173);
+    font-size: 25px;
+
 }
